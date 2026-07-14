@@ -77,4 +77,3 @@
   <br><br>
   <a href="https://flaq.ai/">Сайт</a> · <a href="https://github.com/flaqai">Открытые проекты</a>
 </div>
-

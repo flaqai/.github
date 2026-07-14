@@ -79,4 +79,3 @@ AIの未来は、もっと試しやすく、作りやすく、共有しやすい
   <br><br>
   <a href="https://flaq.ai/">ウェブサイト</a> · <a href="https://github.com/flaqai">オープンソース</a>
 </div>
-

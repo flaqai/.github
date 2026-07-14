@@ -79,4 +79,3 @@
   <br><br>
   <a href="https://flaq.ai/">เว็บไซต์</a> · <a href="https://github.com/flaqai">โครงการโอเพนซอร์ส</a>
 </div>
-

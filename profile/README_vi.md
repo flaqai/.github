@@ -79,4 +79,3 @@ Dù bạn đang ra mắt ứng dụng AI đầu tiên, cải tiến quy trình A
   <br><br>
   <a href="https://flaq.ai/">Trang web</a> · <a href="https://github.com/flaqai">Dự án mã nguồn mở</a>
 </div>
-

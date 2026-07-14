@@ -79,4 +79,3 @@ Baik Anda meluncurkan aplikasi AI pertama, meningkatkan alur kerja Agent, maupun
   <br><br>
   <a href="https://flaq.ai/">Situs web</a> · <a href="https://github.com/flaqai">Proyek open source</a>
 </div>
-

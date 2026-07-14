@@ -79,4 +79,3 @@ AI의 미래는 더 쉽게 탐색하고 만들고 공유할 수 있어야 합니
   <br><br>
   <a href="https://flaq.ai/">웹사이트</a> · <a href="https://github.com/flaqai">오픈 소스 프로젝트</a>
 </div>
-
